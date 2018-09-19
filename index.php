@@ -1,3 +1,3 @@
 <?php
-echo gethostname();
+echo $_SERVER['SERVER_ADDR']
 ?>
